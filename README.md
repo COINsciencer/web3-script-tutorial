@@ -114,7 +114,7 @@ KIKO：计算机博士，Web3 资深开发者，曾就职于头部交易所，�
 - [x] 8.1 Solana 聪明钱监控
 - [x] 8.2 Odos 自动交易批量撸空投
 
-
+![content](docs/content.jpg)
 
 **【报名方法】**
 
