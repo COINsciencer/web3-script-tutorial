@@ -7,7 +7,7 @@
 + 打包建池、添加流动性、拉盘交易
 
 
-### Flashbots Bundle
+### MEV & Flashbots Bundle
 
 将多笔交易发到暗池，贿赂出块者，将多笔交易放在同一个区块中连续的交易序列
 
@@ -42,5 +42,6 @@ https://sepolia.etherscan.io/tx/0x0b4b5ff8d84b9bc19c22a1b047269ea0f183319803b594
 https://sepolia.etherscan.io/tx/0x8f82d67084f788f3c2ae4e7a8326c162a88a2c1b26c63e8d77f73c334414de6c
 
 ### 参考资料
-1. flashbots bundle: https://docs.flashbots.net/flashbots-auction/advanced/understanding-bundles
-2. ethers-provider-flashbots-bundle: https://github.com/flashbots/ethers-provider-flashbots-bundle
+1. MEV: https://ethereum.org/en/developers/docs/mev/
+2. flashbots bundle: https://docs.flashbots.net/flashbots-auction/advanced/understanding-bundles
+3. ethers-provider-flashbots-bundle: https://github.com/flashbots/ethers-provider-flashbots-bundle
