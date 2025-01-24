@@ -23,7 +23,7 @@ const victim = new ethers.Wallet(privateKeyLeaked, provider) // 0xf39Fd6e51aad88
 const ERC20ABI = ["function transfer(address,uint256) external"]
 const ERC20Interface = new ethers.Interface(ERC20ABI)
 
-const tokenAddress = '0x7D528d5B543ceD2b9bF90801bE0AeaDCF621613D'
+const tokenAddress = '0x7D528d5B543ceD2b9bF90801bE0AeaDCF621613D' // AURA
 
 // for flashbots reputation
 const authSigner = ethers.Wallet.createRandom();
